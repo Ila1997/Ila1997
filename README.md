@@ -5,7 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Front-End+Developer,;Active+Learner,;Creative,;Problem+Solver;"></a>
 </p>
 </br>
-	<p align="center">
+<p align="center">
 Hi, I'm Ilaria. I'm an italian Front End Developer born in 1997.
 </br>
 Nice to meet you.
@@ -45,7 +45,6 @@ I'm also extremely creative, which makes me a quick problem solver.
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   
 </div>
-</p>
 </p>
 
 </br>
