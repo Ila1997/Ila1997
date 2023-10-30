@@ -6,7 +6,7 @@
 </p>
 </br>
 	<p align="center">
-Hi, I'm Ilaria. I'm italian and I was born in 1997. Nice to meet you.
+Hi, I'm Ilaria. I'm an italian Front End Developer born in 1997. Nice to meet you.
 </br>
 Since I was young, I've always been curious about how things work and how many (apparently) simple things can have different sides.
 I believe that's the main reason I find technology so fascinating.
